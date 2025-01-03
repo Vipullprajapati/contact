@@ -5,7 +5,7 @@ import TableContainer from '@mui/material/TableContainer';
 import Table from '@mui/material/Table';
 import Paper from '@mui/material/Paper';
 import DeleteIcon from '@mui/icons-material/Delete';
-import { TableBody, TableHead, useMediaQuery } from '@mui/material';
+import { TableBody,  useMediaQuery } from '@mui/material';
 
 export default function ContactList(props) {
 
