@@ -26,11 +26,10 @@
 .card {
   background-color: rgb(235, 232, 232) !important;
   max-height: 39vh !important;
-  min-height: 100% !important;
+  min-height: 42vh;
   margin-left: 12px;
-  min-width: 25vw !important;
-  max-width: 25vw !important;
-  /* flex: 1; Allow the card to take available space */
+  min-width: 30vw !important;
+  max-width: 30vw !important;
 }
 
 .card:hover {
